@@ -4,7 +4,7 @@ For a given set of street blocks, let's find the block to rent an appartment tha
 
 See "AppartmentChallenge.PNG"
 
-The code has a list of requirements and a list of blocks, find the index corresponding to the block for resting an appartment.
+The code has a list of requirements and a list of blocks, find the index corresponding to the block for renting an appartment.
 
 *Video Source:
 https://www.youtube.com/watch?v=rw4s4M3hFfs&t=2458s
